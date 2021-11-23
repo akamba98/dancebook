@@ -1,0 +1,5 @@
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=(Your URL)
+spring.datasource.username=(Your username)
+spring.datasource.password=(Your password)
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
