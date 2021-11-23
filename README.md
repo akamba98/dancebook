@@ -1,4 +1,4 @@
-# Dancebook
+# Dancebook Wep application project
 
 ## Setup project
 - Create application.properties with the template of applicationProperties.txt
